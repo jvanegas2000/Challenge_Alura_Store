@@ -79,10 +79,23 @@ Contiene los Jupyter Notebooks con todo el análisis:
 
 ## 📈 Principales Conclusiones
 
-- **Tienda 1** y **Tienda 2** presentan la mejor facturación y satisfacción del cliente.
-- **Tienda 4** tiene menor facturación, menor calificación promedio y mayores costos de envío, por lo que se recomienda considerar su venta.
-- Los productos de la categoría **Electrodomésticos** y **Muebles** son los más vendidos en general.
-- Las ventas están concentradas en ciudades principales como Bogotá, Medellín y Cali.
+Tras analizar los datos de las cuatro tiendas en los aspectos de facturación, ventas por categoría, calificación promedio, productos más y menos vendidos, y costos de envío, se pueden extraer las siguientes conclusiones:
+
+1. **Facturación total:** La Tienda 4 presenta la facturación total más baja, tanto en ventas como en ingresos por envíos, mientras que la Tienda 1 lidera en este aspecto. Las diferencias, aunque no son abismales, son consistentes y relevantes para la toma de decisiones.
+
+2. **Ventas por categoría:** En casi todas las categorías principales (Electrónicos, Electrodomésticos, Muebles), la Tienda 4 también muestra los valores más bajos de ventas, lo que refuerza la tendencia observada en la facturación total.
+
+3. **Calificación promedio:** Todas las tiendas tienen calificaciones promedio y medianas muy similares, con una mayoría de clientes satisfechos (mediana 5 y promedio cercano a 4). No hay diferencias significativas en la percepción del cliente que justifiquen la venta de una tienda sobre otra.
+
+4. **Productos más y menos vendidos:** La Tienda 4 no destaca en los productos más vendidos y, al igual que en los otros puntos, muestra menor volumen en los productos populares. Esto sugiere menor rotación de inventario y menor dinamismo comercial.
+
+5. **Envío promedio:** Los costos de envío promedio y su variabilidad son muy similares entre todas las tiendas, por lo que este factor no es determinante para la decisión.
+
+**Recomendación:**  
+Considerando todos los análisis, la **Tienda 4** es la que muestra un desempeño menor de manera consistente en facturación, ventas por categoría y rotación de productos. Dado que la satisfacción del cliente y los costos de envío son similares en todas las tiendas, vender la Tienda 4 sería la opción más lógica para el Señor Juan si busca desprenderse de la tienda menos rentable y con menor potencial de crecimiento.
+
+> **En resumen:**  
+> Se recomienda vender la Tienda 4, ya que es la que presenta el desempeño más bajo en los indicadores clave analizados.
 
 ## 🚀 Cómo ejecutar el análisis
 
