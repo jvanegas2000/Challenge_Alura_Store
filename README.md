@@ -55,9 +55,6 @@ AluraStoreLatam/
 ├── notebooks/
 │   └── AluraStoreLatam.ipynb
 │
-├── images/
-│   └── grafico.png
-│
 ├── README.md
 │
 └── requirements.txt
