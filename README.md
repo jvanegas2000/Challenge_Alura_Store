@@ -73,10 +73,6 @@ Contiene los archivos CSV con los datos de ventas de cada tienda:
 Contiene los Jupyter Notebooks con todo el análisis:
 - `AluraStoreLatam.ipynb`: Notebook principal con el análisis completo
 
-### `/images`
-Almacena las imágenes y gráficos generados:
-- `grafico.png`: Visualizaciones del análisis
-
 ### Archivos en la raíz
 - `README.md`: Documentación principal del proyecto
 - `requirements.txt`: Lista de dependencias y bibliotecas necesarias
